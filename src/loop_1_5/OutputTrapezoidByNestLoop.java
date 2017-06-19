@@ -1,4 +1,4 @@
-package loop;
+package loop_1_5;
 
 import java.util.Scanner;
 
