@@ -1,4 +1,4 @@
-package loop_1_5;
+package com.wwk.loop_1_5;
 
 /**
  * Created by wwk on 17/6/17.
